@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = asp_mariadb_cfg
+build_property.ProjectDir = /home/daniel/Projects/net_mariadb_project/asp_mariadb_cfg/

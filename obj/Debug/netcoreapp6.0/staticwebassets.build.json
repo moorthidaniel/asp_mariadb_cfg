@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kmsS+Nr64MfuInCGSvK7+VXNjNLdPufbZBn+xzE62+w=",
+  "Source": "asp_mariadb_cfg",
+  "BasePath": "_content/asp_mariadb_cfg",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
